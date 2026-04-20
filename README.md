@@ -27,3 +27,4 @@ Projeto desenvolvido para praticar tags básicas do HTML.
 - VisualStudioCode
 
 *Desafio de projeto do curso HTML da plataforma dio.me
+*Feito para Treinamento
